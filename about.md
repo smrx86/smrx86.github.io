@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+smrx86, he spent his early youth in Bukittinggi that known as town of tourism in Sumatra Island. Born  as the third son and also being the last child at his family. Not kind of people who like to play out side, really awkward, but friendly....
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+- Dan Brown novel : Angel and Demons, The Da Vinci Code, Digital Fortress, Deception Point.
+- Lupus by Hilman
+- Hannibal by Thommas harris
+- Clear n present danger by Tom Clancy
+- Harry Potter by J.K. Rowling
+- Padang bulan by Andrea Hirata
 
 ### Contact me
 
-[email](mailto:ramatrinanda@gmail.com)
+[gmail](mailto:ramatrinanda@gmail.com)
