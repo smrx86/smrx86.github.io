@@ -6,7 +6,7 @@ permalink: /about/
 
 smrx86, he spent his early youth in Bukittinggi that known as town of tourism in Sumatra Island. Born  as the third son and also being the last child at his family. Not kind of people who like to play out side, really awkward, but friendly....
 
-### More Information
+### Book I read
 
 - Dan Brown novel : Angel and Demons, The Da Vinci Code, Digital Fortress, Deception Point.
 - Lupus by Hilman
