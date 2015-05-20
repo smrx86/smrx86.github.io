@@ -1,18 +1,37 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<section>
+{% for post in site.posts %}
+{% unless post.next %}
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+{% unless forloop.first %}</div></div>{% endunless %}
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+  <div>
+    <h2>{{ post.date | date: '%Y' }}</h2>
+    <div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+{% else %}
+{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+{% if year != nyear %}
+
+{% unless forloop.first %}</div></div>{% endunless %}
+
+  <div>
+    <h2>{{ post.date | date: '%Y' }}</h2>
+    <div>
+{% endif %}
+{% endunless %}
+
+  <article>
+    <time datetime="{{ post.date | date: '%Y-%m-%d' }}" class="tanggal">{{ post.date | date: "%-d %B" }} </time>
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="judul">{{ post.title }}</a>
+  </article>
+
+{% if forloop.last %}</div></div>{% endif %}
+
+{% endfor %}
+</section>

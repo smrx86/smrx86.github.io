@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -117,6 +117,7 @@ img {
 
 .date {
   font-style: italic;
+  font-size: 14px;
   color: $gray;
 }
 
@@ -152,6 +153,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background: url({{ site.latar }});
 }
 
 .masthead {
@@ -165,8 +167,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 140px;
+  height: 140px;
   margin-right: 15px;
 
   @include mobile {
@@ -176,7 +178,9 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 5px #FFF;
+    border : 1px solid #888;
   }
 }
 
@@ -276,6 +280,7 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  opacity: 1.0;
 }
 
 footer {
@@ -287,3 +292,14 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// setting archive
+
+.tanggal,
+.judul {
+  padding: 0 0 0 20px;
+  text-align: left;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
