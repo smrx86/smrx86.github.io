@@ -268,5 +268,5 @@ Pineapple login: [   43.390000] device wlan0 entered promiscuous mode
 Untuk hari cukup ini dulu ya. c'ya.  
 
  
-
+ref: [The Boot Process (old openwrt wiki)](https://oldwiki.archive.openwrt.org/doc/techref/process.boot)
 
