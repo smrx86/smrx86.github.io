@@ -4,6 +4,7 @@ title: Boot Process @Openwrt
 ---
 
 Beberapa tahun lalu saya berkeinginan untuk mengulas tentang proses booting di openwrt, tapi sering terkendala. Berhubung kemarin saya bikin kabel serial usb uart, kepikiran...kenapa tidak tulis sekalian biar bisa jadi dokumentasinya. Perangkat yang saya gunakan adalah GLinet 6416 yang terhubung lewat kabel usb2uart buatan dari kabel nokia ca 42.
+![alt text](https://scontent-sin2-1.cdninstagram.com/vp/65c76b33a22579daecbd90e2d87a6606/5CB1473A/t51.2885-15/e35/44760113_267062790821960_1238197665365512068_n.jpg "ca42")
 
 Ada sedikit perbedaan antara booting proses di OS linux desktop dengan *nux embedded. Jika di linux kita mengenal ada 6 level proses (Bios, MBR, GRUB, Kernel, Init, Runlevel), maka di openwrt cukup hanya 3 tahapan:
 
