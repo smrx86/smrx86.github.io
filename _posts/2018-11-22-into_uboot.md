@@ -5,9 +5,9 @@ title: Into Uboot
 
 __tl:dr__ Posting ini akan membahas sedikit tentang bootloader. Sample yang digunakan di labs ini adalah uboot.
 
-Kalau anda baca [post sebelumnya][1], saya sempat tuliskan perihal __proses sela__ yang biasanya dipergunakan untuk memflash ulang nand memory sebuah router.
+Kalau anda baca [post sebelumnya](https://smrx86.github.io/boot-process_di_openwrt), saya sempat tuliskan perihal __proses sela__ yang biasanya dipergunakan untuk memflash ulang nand memory sebuah router.
 
-Bawaan router glinet sudah menggunakan bootloader mod dari [pepe2k][2] yang memungkinkan proses debrick lewat http. tapi disini kita coba lihat apa saja sebenarnya proses dibelakangnya.
+Bawaan router glinet sudah menggunakan bootloader mod dari [pepe2k](https://github.com/pepe2k/u-boot_mod) yang memungkinkan proses debrick lewat http. tapi disini kita coba lihat apa saja sebenarnya proses dibelakangnya.
 
 Ada tiga opsi lanjutan untuk masuk kedalam console uboot. Ketiga nya hanya soal berapa lama kita menahan tombol reset saat router dinyalakan.
 
@@ -216,7 +216,3 @@ FLASH: Winbond W25Q128 (16 MB)
 ```
 
 ref: [UBootCmdGroupFlash](https://www.denx.de/wiki/DULG/UBootCmdGroupFlash)
-
-[1]:https://smrx86.github.io/boot-process_di_openwrt
-
-[2]:https://github.com/pepe2k/u-boot_mod
