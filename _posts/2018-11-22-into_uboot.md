@@ -3,7 +3,7 @@ layout: post
 title: Into Uboot
 ---
 
-tl:dr Posting ini akan membahas sedikit tentang bootloader. Sample yang digunakan di labs ini adalah uboot.
+__tl:dr__ Posting ini akan membahas sedikit tentang bootloader. Sample yang digunakan di labs ini adalah uboot.
 
 Kalau anda baca [post sebelumnya][1], saya sempat tuliskan perihal __proses sela__ yang biasanya dipergunakan untuk memflash ulang nand memory sebuah router.
 
@@ -216,5 +216,7 @@ FLASH: Winbond W25Q128 (16 MB)
 ```
 
 ref: [UBootCmdGroupFlash](https://www.denx.de/wiki/DULG/UBootCmdGroupFlash)
+
 [1]:https://smrx86.github.io/boot-process_di_openwrt
+
 [2]:https://github.com/pepe2k/u-boot_mod
