@@ -5,7 +5,7 @@ title: Membingkai Indonesia, The Story Behind Acak Kota
 
 >Supaya ada variasinya, maka tulisan iseng kali ini tidak akan bahas-bahas soal daleman wrt.
 
-Bercerita sedikit tentang event BTP yang membawa saya dan team ke penjuru daerah di Indonesia. Sebut saja Bandung, Malang, Palembang, Makassar (yg ini saya absen), Samarinda & Yogyakarta. Kami mengalami banyak hal keren selama tour tsb. Sebut saja camping di kantor, fitness gratis angkat beban + 30 kg, real bumpbump car ketika menuju bandara dll.
+Bercerita sedikit tentang event BTP yang membawa saya dan team ke penjuru daerah di Indonesia. Beberapa diantaranya, Bandung, Malang, Palembang, Makassar (yg ini saya absen), Samarinda & Yogyakarta. Kami mengalami banyak hal keren selama tour tsb. Sebut saja camping di kantor, fitness gratis angkat beban + 30 kg, real bumpbump car ketika menuju bandara dll.
 
 Soal sukses atau tidaknya terus terang saya sering ragu...kenapa? krn persiapan di venue kadang kurang dari sehari dari hari H. Pagi di hari H hampir selalu adalah bencana dan menguras tenaga. Tapi itu semua terbayarkan dengan antusias dari pesertanya. Meraka datang dari berbagai kalangan serta berbagai profesi, mulai dari pengemudi ojol, siswa, pengajar, mahasiswa hingga dosen. Bahkan ada peserta disabiltas ikut serta. 
 
