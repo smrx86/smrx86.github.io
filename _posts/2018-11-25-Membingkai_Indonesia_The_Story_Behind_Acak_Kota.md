@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ctf0x0. Membingkai Indonesia (The Story Behind Acak Kota)
+title: Membingkai Indonesia (The Story Behind Acak Kota)
 tags:
 - ctf
 ---
