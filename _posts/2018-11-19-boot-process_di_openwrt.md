@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Boot Process @Openwrt
+tags:
+- openwrt
 ---
 
 Beberapa tahun lalu saya berkeinginan untuk mengulas tentang proses booting di openwrt, tapi sering terkendala. Berhubung kemarin saya bikin kabel serial usb uart, kepikiran...kenapa tidak tulis sekalian biar bisa jadi dokumentasinya. Perangkat yang saya gunakan adalah GLinet 6416 yang terhubung lewat kabel usb2uart buatan dari kabel nokia ca 42.

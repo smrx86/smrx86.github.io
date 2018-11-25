@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Into Uboot
+tags:
+- openwrt
 ---
 
 __tl:dr__ Posting ini akan membahas sedikit tentang bootloader. Sample yang digunakan di labs ini adalah uboot.
