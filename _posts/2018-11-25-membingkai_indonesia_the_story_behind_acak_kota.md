@@ -7,9 +7,9 @@ title: Membingkai Indonesia, The Story Behind Acak Kota
 
 Bercerita sedikit tentang event BTP yang membawa saya dan team ke penjuru daerah di Indonesia. Beberapa diantaranya, Bandung, Malang, Palembang, Makassar (yg ini saya absen), Samarinda & Yogyakarta. Kami mengalami banyak hal keren selama tour tsb. Sebut saja camping di kantor, fitness gratis angkat beban + 30 kg, real bumpbump car ketika menuju bandara dll.
 
-Soal sukses atau tidaknya terus terang saya sering ragu...kenapa? krn persiapan di venue kadang kurang dari sehari dari hari H. Pagi di hari H hampir selalu adalah bencana dan menguras tenaga. Tapi itu semua terbayarkan dengan antusias dari pesertanya. Meraka datang dari berbagai kalangan serta berbagai profesi, mulai dari pengemudi ojol, siswa, pengajar, mahasiswa hingga dosen. Bahkan ada peserta disabiltas ikut serta. 
+Soal sukses atau tidaknya terus terang saya sering ragu...kenapa? krn persiapan di venue kadang kurang dari sehari dari hari H. Pagi di hari H hampir selalu adalah bencana dan menguras tenaga. Tapi itu semua terbayarkan dengan antusias dari pesertanya. Meraka datang dari berbagai kalangan serta berbagai profesi, mulai dari pengemudi ojol, siswa, pengajar, mahasiswa hingga dosen. Bahkan ada peserta disabilitas ikut serta. 
 
-Tak hanya itu, mereka kadang menempuh jarak puluhan kilometer dari dearah asal, naik bus malam dan begitu sampe sudah siang telat daftar ulang sehingga mendapatkan shift ujiannya sore menjelang magrib. Effortnya yang luar biasa patut diajungi 2 jempol.
+Tak hanya itu, mereka kadang menempuh jarak puluhan kilometer dari dearah asal, naik bus malam dan begitu sampe sudah siang telat daftar ulang sehingga mendapatkan shift ujiannya sore menjelang magrib. Effort yang luar biasa dan patut diajungi 2 jempol.
 
 Bagi saya sendiri, kadang berinteraksi dengan peserta ataupun team lokal membuat saya jadi sedikit tahu dengan budayanya, makanan khas dan yang pasti tujuan wisata. Disini saya sadar kalau __Indonesia Kaya.__
 
