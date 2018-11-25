@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Membingkai Indonesia, The Story Behind Acak Kota
-tags:
-- ctf
 ---
 
 >Supaya ada variasinya, maka tulisan iseng kali ini tidak akan bahas-bahas soal daleman wrt.
