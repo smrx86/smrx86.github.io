@@ -19,7 +19,7 @@ Mustahil...ternyata tidak, ada banyak peserta yang solve soal ini. Salah satu pe
 
 Saya ucapkan selamat bagi anda2 yang sudah pernah mendapatkan flagnya dan bagi mereka yang mencoba manual saya harap ada nilai plus dengan anda mengenal nama kota di Indonesia.
 
-Namun jika masih penasaran dengan soal nya berikut saya sertakan source code soalnya:
+Namun jika masih penasaran dengan soal nya berikut saya sertakan source codenya:
 
 ```
 #!/usr/bin/env python
