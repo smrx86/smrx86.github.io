@@ -5,9 +5,9 @@ tags:
 - openwrt
 ---
 
-Ada beberapa cara untuk membuat firmware oprnwrt yang jamak dilakukan. Setidaknya ada 3 cara mudah untuk melakukannya:
+Ada beberapa cara untuk membuat firmware openwrt yang jamak dilakukan. Setidaknya ada 3 cara mudah untuk melakukannya:
 
-1. Image builder, metode ini hampir bisa dikatakan setengah matangnya metode buildsystem. Anda tetap bisa membuat firmware dengan menggunakan scratch code yang anda sendiri. Tapi cara ini memangkas waktu untuk proses compile package yang umum sudah tersedia di repositori. [Image builder method](https://openwrt.org/docs/guide-user/additional-software/imagebuilder).
+1. Image builder, metode ini hampir bisa dikatakan setengah matangnya metode buildsystem. Anda tetap bisa membuat firmware dengan menggunakan scratch code yang anda sendiri. Tapi cara ini memangkas waktu untuk proses compile package yang umum sudah tersedia di repositori.~ [Image builder method](https://openwrt.org/docs/guide-user/additional-software/imagebuilder).
 2. FMK method, cara ini seperti membongkar kompresi rootfs firmware asli, menambahkan atau memdifikasi file/package untuk kemudian menrepacknya ulang. Cara ini adalah cara yang saya gunakan di [paper](https://github.com/smrx86/STPF2/raw/master/WP_Firmware%20Hacking%2C%20Slash%20the%20Pineapple%20for%20Fun%20(en).pdf) saya dulu. Salah satu tools yang baisa digunkan adalah FMK.
 3. Backup method, ini cara paling mudah untuk membuat f/w dengan cita rasa anda sendiri. Anda cukup jalankan router, tambahkan file yang akan anda inginkan, modif config yang ingin dicustom eq:firewall, dhcp config, etc. Kemudian jalankan perintah untuk mengidentifikasi lokasi f/w dan lakukan backup. 
 
