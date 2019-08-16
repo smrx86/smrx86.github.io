@@ -21,9 +21,9 @@ Dilihat dari konten database yang dikumpulkan sebenarnya ada info hal yang bisa 
 
 ![alt text](/images/bleahscabip.png "bleahscabip")
 
-Namun sayangnya database yang dimiliki applikasi ini tidak dapat diexport langsung kedalam bentuk kml. Untuk itu hasil databasenya yang berbentuk sqlite perlu sedikit diolah dan di  simpan kedalam bentuk yang memungkinkan diterima oleh google maps.
+Namun sayangnya database yang dimiliki applikasi ini tidak dapat diexport langsung kedalam bentuk kml. Untuk itu hasil databasenya yang berbentuk sqlite perlu sedikit diolah dan disimpan kedalam bentuk yang memungkinkan diterima oleh google maps.
 
-Berbekal sedikit pengatuan tentang query command di sqlite kita bisa menggabungkan baris isi dari tabel devices dan locations.
+Berbekal sedikit pengetahuan tentang query command di sqlite kita bisa menggabungkan baris isi dari tabel devices dan locations.
 
 ```
 $sqlite3
