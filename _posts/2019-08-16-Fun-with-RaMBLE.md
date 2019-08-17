@@ -5,7 +5,7 @@ tags:
 - BLE hacking
 ---
 
-Bicara tentang Bluetooth low energy, ini adalah [topik lain](https://www.slideshare.net/Ramaporter/hackingblesmartwatch-idsecconf2019-cirebon) yang sudah angkat di acara Idsecconf 2019 di Cirebon bulan maret yang lalu. Bahan-bahan papernya sendiri sebenarnya sudah lebih setahun tepat sesudah pembelian amazfit bip.
+Bicara tentang Bluetooth low energy, ini adalah [topik lain](https://www.slideshare.net/Ramaporter/hackingblesmartwatch-idsecconf2019-cirebon) yang sudah saya angkat di acara Idsecconf 2019 di Cirebon bulan maret yang lalu. Bahan-bahan papernya sendiri sebenarnya sudah lebih setahun tepat sesudah pembelian amazfit bip.
 
 Beberapa minggu usai Idsecconf seorang teman membagikan info soal adanya applikasi yang bisa digunakan untuk BLE wardriving.
   
