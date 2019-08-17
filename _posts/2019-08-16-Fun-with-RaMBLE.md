@@ -15,7 +15,7 @@ Applikasi yang cukup menarik dan baru minggu lalu saya sempatkan untuk meexplore
 
 ![alt text](/images/ramblemap.jpg "ramblemap")
 
-Dilihat dari konten database yang dikumpulkan sebenarnya ada info hal yang bisa ditampilkan. Tapi tentu tidak begitu penting juga jika tampil di setiap node di peta. Isi database ramble hampir bisa menyamai hasil scanning (bukan enumerate) yang biasa saya dapatkan dengan tool bleah.
+Dilihat dari konten database yang dikumpulkan sebenarnya ada banyak info yang bisa ditampilkan. Tapi tentu tidak begitu penting juga jika tampil di setiap node di peta. Isi database ramble hampir bisa menyamai hasil scanning (bukan enumerate) yang biasa saya dapatkan dengan tool bleah.
 
 ![alt text](/images/rambledatabase.png "rambledatabase")
 
