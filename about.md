@@ -15,6 +15,10 @@ smrx86, he spent his early youth in Bukittinggi that known as town of tourism in
 - Harry Potter by J.K. Rowling
 - Padang bulan by Andrea Hirata
 
-### Contact me
+### Achievement
+- Idsecconf speaker 2013,2014,2015,2019.
+- Speaker at Echotalks 2019.
+- Codebali speaker 2015.
+- Speaker at seminar riset Idsirtii 2015.
 
-[gmail](mailto:ramatrinanda@gmail.com)
+
