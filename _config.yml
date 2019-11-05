@@ -75,3 +75,7 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+future: true
+
+timezone: UTC+7
