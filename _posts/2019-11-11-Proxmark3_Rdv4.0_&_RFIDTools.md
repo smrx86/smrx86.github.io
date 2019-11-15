@@ -36,14 +36,14 @@ Untuk flashing dianjurkan untuk memflash bootloader terlebih dahulu, baru kemudi
 $ ls /dev/cu.usbmodem*
 $ ./proxmark3 /dev/cu.usbmodem881 --flash --unlock-bootloader --image ../../bootrom/obj/bootrom.elf
 $ ls /dev/cu.usbmodem*
-$ ./proxmark3 /dev/cu.usbmodemicema1 --flash --unlock-bootloader --image ../../bootrom/obj/bootrom.elf --image ../../proxmark3/armsrc/obj/fullimage.elf
+$ ./proxmark3 /dev/cu.usbmodemicema1 --flash --unlock-bootloader --image ../../bootrom/obj/bootrom.elf --image ../../armsrc/obj/fullimage.elf
 
 ```
 ![alt text](/images/prox3_flashing.png "proxmark3 flashing")
 
 Final Testing
 -
-Dalam test akhir saya coba menggunkan handphone yang dihubungkan via usb OTG ke proxmark3. 
+Dalam test akhir saya coba menggunakan handphone yang dihubungkan via usb OTG ke proxmark3. 
 
 ![alt text](/images/IMG_0269.jpg "prox3 via otg")
 
@@ -52,12 +52,12 @@ Ada dua mode yang bisa digunakan,
 * Red Team Teminal yang mendukung trasmisi frekuensi tinggi dan rendah.
 * Reader UI yang hanya mendukung frekuensi tinggi.
 
-saya coba mode Red Team Terminal yang memungkin kita untuk mengetik sendiri perintah yang dikirimkan ke perangkat.
+saya coba mode Red Team Terminal yang memungkinkan kita untuk mengetik sendiri perintah yang dikirimkan ke perangkat.
 ![alt text](/images/redteamterminal_prox3.jpg "redteamterminal prox3")
 
 Extra
 -
-Selain bisa terhubung dengan proxmark3, applikasi RFIDTools ini ternyata juga bisa terhubung dengan ChameleonMini, usb ACR-122U serta modul PN532. Saya coba hubungkan dengan usb ACR-122U ternyata memang bisa berfungsi dengan baik.
+Selain bisa terhubung dengan proxmark3, aplikasi RFIDTools ini ternyata juga bisa terhubung dengan ChameleonMini, usb ACR-122U serta modul PN532. Saya coba hubungkan dengan usb ACR-122U ternyata memang bisa berfungsi dengan baik.
  
 ![alt text](/images/IMG_0268.jpg "acr122u via otg")
 
