@@ -35,9 +35,9 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 8126464       0x7C0000        JFFS2 filesystem, big endian #ini hanya ada jika menggunakan metode backup.
 ```
 
->JFFS2 ini adalah compress dari file konten yang ditambahkan atau dimodif sebelum backup dilakukan. 
+>JFFS2 (rootfs overlay) ini adalah compress dari file konten yang ditambahkan atau dimodif sebelum backup dilakukan. 
 
-Sementara _rootfs_ yang berada di part squash filesystem sebenarnya tidak mengalami perubahan dari f/w asli yang digunakan awal oleh router.
+Sementara _rootfs_ yang berada di part squash filesystem sebenarnya tidak mengalami perubahan dari f/w asli yang digunakan awal oleh router. 
 
 Lalu metode apa yang sebaiknya saya pilih??? hmmm...kalau saya bilang, pilih yang paling sesuai dengan kebutuhan. Cara 1 & 2 akan butuh effort lebih, tapi akan menghasilkan f/w yang lebih bersih dan fresh ketika akan di flash.
 

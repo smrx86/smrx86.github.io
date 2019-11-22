@@ -20,7 +20,7 @@ Sebelumnya saya juga pernah mencoba menyambungkan aplikasi [AndProx](https://pla
 Kompilasi dan Flashing
 -
 
-Membaca dokumentasi, perangkat proxmark3 harus diflash dengan bootloader serta rom image versi stabil yang terbaru. Dari website mereka menyediakan bootloader/romimage yang sesuai untuk [diunduh](http://proxgrind.com/free-sdk/). Untungnya repositori dari RRG di buat berdasarkan git iceman, sehingga terbuka peluang juga untuk membuild dari [source github](https://github.com/RfidResearchGroup/proxmark3) dengan beragam tweak miliknya iceman. 
+Membaca dokumentasi, perangkat proxmark3 harus diflash dengan bootloader serta rom image versi stabil yang terbaru. Dari website, mereka menyediakan bootloader/romimage yang sesuai untuk [diunduh](http://proxgrind.com/free-sdk/). Untungnya repositori dari RRG di buat berdasarkan git iceman, sehingga juga terbuka peluang juga untuk membuild dari [source github](https://github.com/RfidResearchGroup/proxmark3) dengan beragam tweak miliknya iceman. 
 
 > Jika anda menggunakan mac os el-capitan (seperti saya), homebrew proxmark3 sudah tidak dapat dilakukan. Paket QT5 terbaru hanya diperbolehkan dibuat dalam env minimal mac os Sierra.
 
@@ -30,7 +30,7 @@ Berbekal data dan pengalaman flashing sebelumnya, saya cukup yakin bisa mengkomp
 
 *Error communicate* bukan sesuatu yang patut dikhawatirkan. *Unknown command:: 0x613345d50* terjadi karna perangkat proxmark3 belum di flash dengan image yang sudah dikompilasi.
 
-Untuk flashing dianjurkan untuk memflash bootloader terlebih dahulu, baru kemudian setelah perangkat reload dan di identifikasi lagi di *com port* di flash berbarengan dengan rom image. Setelah proses flash pertama saya mendapati perangkat dikenali sebagai */dev/cu.usbmodemicema1*. Berikut perintahnya:
+Untuk flashing dianjurkan untuk memflash bootloader terlebih dahulu, baru kemudian setelah perangkat di re-identifikasi sebagai *com port* baru di flash berbarengan dengan rom image. Setelah proses flash pertama saya mendapati perangkat dikenali sebagai */dev/cu.usbmodemicema1*. Berikut perintahnya:
 
 ```console
 $ ls /dev/cu.usbmodem*
@@ -52,7 +52,7 @@ Ada dua mode yang bisa digunakan,
 * Red Team Teminal yang mendukung trasmisi frekuensi tinggi dan rendah.
 * Reader UI yang hanya mendukung frekuensi tinggi.
 
-saya coba mode Red Team Terminal yang memungkinkan kita untuk mengetik sendiri perintah yang dikirimkan ke perangkat.
+Saya coba mode Red Team Terminal yang memungkinkan kita untuk mengetik sendiri perintah yang dikirimkan ke perangkat.
 ![alt text](/images/redteamterminal_prox3.jpg "redteamterminal prox3")
 
 Extra
