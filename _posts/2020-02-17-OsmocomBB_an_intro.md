@@ -4,7 +4,7 @@ title: Osmocombb, an Introduction
 tags: Osmocombb
 ---
 
-Osmocombb dua tahun setelah diluncurkannya OpenBSC. Pengembangan osmocombb oleh H.Welte di tujukan untuk membuat perangkat lunak yang menjalankan sisi client protokol GSM. Pada awalnya osmocombb dibuat diatas chipset *'calypso'* yang diproduksi oleh texas Instrument. Saat itu *'calypso'* mempunyai banyak informasi dataset yang bisa diperoleh dengan mudah.
+Osmocombb dikembangkan dua tahun setelah diluncurkannya OpenBSC. Pengembangan osmocombb oleh H.Welte di tujukan untuk membuat perangkat lunak yang menjalankan sisi client protokol GSM. Pada awalnya osmocombb dibuat diatas chipset *'calypso'* yang diproduksi oleh texas Instrument. Saat itu *'calypso'* mempunyai banyak informasi dataset yang bisa diperoleh dengan mudah.
 
 Tahun 2013, ketika saya pertama kali saya mulai oprek motorola c118 sudah banyak artikel dan zine yang membahas soal osmocombb. Salah satu tulisan bahkan berikan langkah-langkah bagaimana mengubah osmocombb menjadi [BTS sederhana](http://ezine.echo.or.id/issue27/007.txt).
 
